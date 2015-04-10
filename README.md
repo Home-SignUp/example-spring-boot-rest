@@ -18,7 +18,7 @@ Quick start
 
 Проверил:
 ---------
-1. `ссылка на статью` [http://kielczewski.eu/2014/04/developing-restful-web-service-with-spring-boot/](http://kielczewski.eu/2014/04/developing-restful-web-service-with-spring-boot/)
+1. `ссылка на статью` [http://kielczewski.eu/2014/04/developing-restful-web-service-with-spring-boot/](http://kielczewski.eu/2014/04/developing-restful-web-service-with-spring-boot/) ([rus](https://translate.google.com.ua/translate?sl=en&tl=ru&js=y&prev=_t&hl=ru&ie=UTF-8&u=http%3A%2F%2Fkielczewski.eu%2F2014%2F04%2Fdeveloping-restful-web-service-with-spring-boot%2F&edit-text=))
 2. `maven-3 jdk-7`
 3. `mvn clean package`
 4. `в terminal(е)` java -jar target/example-spring-boot-rest-1.0-SNAPSHOT.jar
